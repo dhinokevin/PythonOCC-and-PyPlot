@@ -41,7 +41,7 @@ To create a Python program that reads beam and loading data from an Excel sheet 
 - `SFS_Screening_SFDBMD.xlsx`: Contains span length, support positions, point loads, and UDLs.
 
 ### 📤 Output:
-- `Task1_results.png`: Shows both SFD and BMD plots generated using Matplotlib.
+- `/Task_1/Task1_results.png`: Shows both SFD and BMD plots generated using Matplotlib.
 
 ### ▶️ How to Run:
 ```bash
