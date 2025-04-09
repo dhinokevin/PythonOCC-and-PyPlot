@@ -18,7 +18,7 @@ This repository showcases solutions to two compulsory tasks for the IIT internsh
 ```
 ├── task1/                         # Task 1: Shear Force & Bending Moment Diagram
 │   ├── main.py                    # Script to generate SFD and BMD
-│   ├── beam_data.xlsx             # Input Excel file with load and support data
+│   ├── SFS_Screening_SFDBMD.xlsx  # Input Excel file with load and support data
 │   └── Task1_results.png          # Output image of SFD and BMD
 
 ├── task2/                         # Task 2: 3D CAD Model of Laced Compound Column
@@ -38,7 +38,7 @@ To create a Python program that reads beam and loading data from an Excel sheet 
 - Bending Moment Diagram (BMD)
 
 ### 📂 Input:
-- `beam_data.xlsx`: Contains span length, support positions, point loads, and UDLs.
+- `SFS_Screening_SFDBMD.xlsx`: Contains span length, support positions, point loads, and UDLs.
 
 ### 📤 Output:
 - `Task1_results.png`: Shows both SFD and BMD plots generated using Matplotlib.
