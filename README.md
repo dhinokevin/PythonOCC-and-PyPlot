@@ -38,7 +38,7 @@ To create a Python program that reads beam and loading data from an Excel sheet 
 - Bending Moment Diagram (BMD)
 
 ### 📂 Input:
-- `SFS_Screening_SFDBMD.xlsx`: Contains span length, support positions, point loads, and UDLs.
+- `Task_1/SFS_Screening_SFDBMD.xlsx`: Contains span length, support positions, point loads, and UDLs.
 
 ### 📤 Output:
 - `Task_1/Task1_results.png`: Shows both SFD and BMD plots generated using Matplotlib.
@@ -49,7 +49,7 @@ cd task1
 pip install matplotlib pandas openpyxl
 python main.py
 ```
-
+![SFD and BMD Output](Task_1/Task1_results.png)
 ---
 
 ## ✅ Task 2 – 3D CAD Drawing of Laced Compound Column
